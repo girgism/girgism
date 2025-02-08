@@ -15,7 +15,7 @@ With over 3 years of professional experience building scalable web applications,
 I'm constantly improving my skills and expanding my expertise in **software development best practices**. I also speak some **German** and am open to international collaborations.
 
 ## 📌 Current Interests
-- exploring microservices, domain-driven design (DDD), and performance optimization
+- Exploring microservices, domain-driven design (DDD), and performance optimization
 - Enhancing my **.NET & Angular** skills
 - Exploring **cloud computing** and **DevOps**
 - Learning more about **performance optimization** and **scalability**
