@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate **Software Developer** specializing in **.NET** and **Angular**. With a background in **computer science**, I love building scalable, efficient, and high-quality applications. I'm always eager to explore new technologies and enhance my skill set.
 With over 3 years of professional experience building scalable web applications, from RESTful APIs to dynamic frontend interfaces.
--💡 Open-source enthusiast | Lifelong learner | Team collaborator
+## - 💡 Open-source enthusiast | Lifelong learner | Team collaborator
 
 ## 💻 Tech Stack
 - **Backend:** C#, ASP.NET Core, Entity Framework, and SQL, LINQ
