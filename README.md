@@ -1,37 +1,60 @@
 # Hi there, I'm Girgis! 👋
 
 ## 🚀 About Me
-I'm a passionate **Software Developer** specializing in **.NET** and **Angular**. With a background in **computer science**, I love building scalable, efficient, and high-quality applications. I'm always eager to explore new technologies and enhance my skill set.
-With over 3 years of professional experience building scalable web applications, from RESTful APIs to dynamic frontend interfaces.
-- 💡 Open-source enthusiast | Lifelong learner | Team collaborator
+I'm a passionate **Software Developer** specializing in **.NET** and **Angular** with a solid background in **Computer Science**. I have over **3 years of professional experience** building scalable, efficient, and high-quality web applications—from RESTful APIs to dynamic frontend interfaces.
+
+- 💡 I’m a lifelong learner, open-source enthusiast, and strong team collaborator who thrives on solving real-world problems with clean, maintainable code.
+
 
 ## 💻 Tech Stack
-- **Backend:** C#, ASP.NET Core, Entity Framework, and SQL, LINQ
-- **Frontend:** Angular (TypeScript, RxJS, NgRx), HTML5/CSS3, and modern JavaScript (ES6+)
-- **Databases:** SQL Server
-- **Tools & Platforms:** Git, Azure, Docker, Azure, CI/CD
+
+- **Backend:** C#, ASP.NET Core, Entity Framework, LINQ, REST APIs  
+- **Frontend:** Angular (TypeScript, RxJS, NgRx), HTML5, CSS3, JavaScript (ES6+)  
+- **Databases:** SQL Server  
+- **Tools & Platforms:** Git, Docker, Azure, CI/CD pipelines
 
 ## 🌱 Learning & Growth
 I'm constantly improving my skills and expanding my expertise in **software development best practices**. I also speak some **German** and am open to international collaborations.
 
+## 🌱 Learning & Growth
+
+I'm constantly sharpening my skills and exploring modern software engineering practices. Currently focused on:
+
+- **Microservices architecture** and **Domain-Driven Design (DDD)**
+- **Performance optimization** and **application scalability**
+- **Cloud computing** (Azure) and **DevOps practices**
+- Advancing my **.NET** and **Angular** expertise  
+
+---
+
 ## 📌 Current Interests
-- Exploring microservices, domain-driven design (DDD), and performance optimization
-- Enhancing my **.NET & Angular** skills
-- Exploring **cloud computing** and **DevOps**
-- Learning more about **performance optimization** and **scalability**
 
-## 🏡 Personal Life
-I live in **Hurghada , Egypt**
+- Clean architecture & best practices  
+- Distributed systems & asynchronous programming  
+- CI/CD automation & deployment strategies  
+- Advanced TypeScript patterns and Angular performance tuning
 
-## 🎓 Certifications
-- Bachelor's degree in computer science.
-- ITI: Full-Stack Web Development using Dot Net and Angular.
+---
 
-## 📫 Let's Connect
-- **GitHub:** [github.com/girgism](https://github.com/girgism)
-- **LinkedIn:** [linkedin.com/in/girgis-mirzek](https://www.linkedin.com/in/girgis-mirzek/)
-- **Email:** girgis12mirzek@gmail.com
-- **Phone:** 01224092116 
+## 🏡 Personal Snapshot
 
-Feel free to reach out if you'd like to collaborate or just have a chat about tech! 🚀
+Based in **Hurghada, Egypt**, enjoying life by the Red Sea 🌊
+
+---
+## 🎓 Education & Certifications
+
+- 🎓 **Bachelor’s Degree** in Computer Science  
+- 🏅 **ITI Graduate** – Full-Stack Web Development using .NET & Angular
+
+---
+## 📌 Portfolio & Profiles
+- **🌐 Portfolio:** [girgism.github.io/Resume/](https://girgism.github.io/Resume/)
+- **💼 LinkedIn:** [linkedin.com/in/girgis-mirzek](https://www.linkedin.com/in/girgis-mirzek/)
+- **🐙 GitHub:** [github.com/girgism](https://github.com/girgism)
+
+## 📫 Get in Touch
+- **📧 Email:** girgis12mirzek@gmail.com  
+- **📱 Phone:** +20 122 409 2116  
+
+I’m always open to tech conversations, collaborations, or new opportunities. Let’s build something great together! 🚀
 
