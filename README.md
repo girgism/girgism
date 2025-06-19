@@ -12,9 +12,8 @@ I'm a passionate **Software Developer** specializing in **.NET** and **Angular**
 - **Frontend:** Angular (TypeScript, RxJS, NgRx), HTML5, CSS3, JavaScript (ES6+)  
 - **Databases:** SQL Server  
 - **Tools & Platforms:** Git, Docker, Azure, CI/CD pipelines
-
-## 🌱 Learning & Growth
-I'm constantly improving my skills and expanding my expertise in **software development best practices**. I also speak some **German** and am open to international collaborations.
+  
+---
 
 ## 🌱 Learning & Growth
 
