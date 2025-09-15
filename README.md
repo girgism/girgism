@@ -10,14 +10,14 @@ I'm a passionate **Software Developer** specializing in **.NET** and **Angular**
 
 - **Backend:** C#, ASP.NET Core, Entity Framework, LINQ, REST APIs  
 - **Frontend:** Angular (TypeScript, RxJS, NgRx), HTML5, CSS3, JavaScript (ES6+)  
-- **Databases:** SQL Server  
+- **Databases:** SQL Server, MySQL, PostgreSQL
 - **Tools & Platforms:** Git, Docker, Azure, CI/CD pipelines
   
 ---
 
 ## 🌱 Learning & Growth
 
-I'm constantly sharpening my skills and exploring modern software engineering practices. Currently focused on:
+I continually refine my skills and explore contemporary software engineering practices. Currently focused on:
 
 - **Microservices architecture** and **Domain-Driven Design (DDD)**
 - **Performance optimization** and **application scalability**
