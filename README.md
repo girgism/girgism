@@ -47,7 +47,7 @@ Based in **Hurghada, Egypt**, enjoying life by the Red Sea 🌊
 
 ---
 ## 📌 Portfolio & Profiles
-- **🌐 Portfolio:** [girgism.github.io/Resume/](https://girgism.github.io/Girgis-Mirzek-Portfolio/)
+- **🌐 Portfolio:** [https://girgism.github.io/Girgis-Mirzek-Portfolio/](https://girgism.github.io/Girgis-Mirzek-Portfolio/)
 - **💼 LinkedIn:** [linkedin.com/in/girgis-mirzek](https://www.linkedin.com/in/girgis-mirzek/)
 - **🐙 GitHub:** [github.com/girgism](https://github.com/girgism)
 
